@@ -55,6 +55,5 @@ target/
 
 # eclipse
 .project*
-.pyedv*
+.pydev*
 .setting*
-
